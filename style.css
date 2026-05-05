@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+header{
+    height: 50px;
+}
+
+.link-nav{
+    color: blueviolet;
+    text-decoration: none;
+    background-image: linear-gradient(lightblue, coral);
+    border: 3px dashed blueviolet;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.link-header{
+    color: white;
+    border: 3px solid white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+    background-image: linear-gradient(coral, blue);
+    text-decoration: none;
+}
+
+main{
+    background-color: darkgoldenrod;
+    padding: 30px;
+}
+
+h1{
+    color: cyan;
+    text-align: center;
+}
+
+footer{
+    margin: 20px;
+}
+
+main p{
+    color: lightgreen;
+    font-size: 20px;
+    font-family:Courier;
+}
+
+main img{
+    width: 300px;
+}
